@@ -33,7 +33,7 @@
 				    <cloudHubDeployment>
 				      <uri>https://anypoint.mulesoft.com</uri>
 				      <muleVersion>4.4.0</muleVersion>
-				      <username>Shubhamsutar_01</username>
+				      <username>Shubhamsutar_02</username>
 				      <password>Mulesoft@24</password>
 				      <applicationName>Mule-soft-cicd</applicationName>
 				      <environment>Sandbox</environment>
